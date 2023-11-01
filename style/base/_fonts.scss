@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('./fonts/RobotoLight.eot');
+    src: url('./fonts/RobotoLight.eot?#iefix') format('embedded-opentype'),
+        url('./fonts/RobotoLight.woff2') format('woff2'),
+        url('./fonts/RobotoLight.woff') format('woff'),
+        url('./fonts/RobotoLight.ttf') format('truetype'),
+        url('./fonts/RobotoLight.svg#Roboto Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-2044;
+}
+@font-face {
+    font-family:'Montserrat-bold';
+    src: url('./fonts/MontserratBold.eot');
+	src: url('./fonts/MontserratBold.eot?#iefix') format('embedded-opentype'),
+		url('./fonts/MontserratBold.woff2') format('woff2'),
+		url('./fonts/MontserratBold.woff') format('woff'),
+		url('./fonts/MontserratBold.ttf') format('truetype'),
+		url('./fonts/MontserratBold.svg#Montserrat Bold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-2044;
+}
+
+@font-face {
+    font-family:'Montserrat-regular';
+    src: url('./fonts/MontserratRegular.eot');
+	src: url('./fonts/MontserratRegular.eot?#iefix') format('embedded-opentype'),
+		url('./fonts/MontserratRegular.woff2') format('woff2'),
+		url('./fonts/MontserratRegular.woff') format('woff'),
+		url('./fonts/MontserratRegular.ttf') format('truetype'),
+		url('./fonts/MontserratRegular.svg#Montserrat Regular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-2044;
+}
